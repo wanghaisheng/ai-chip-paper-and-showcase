@@ -11,6 +11,8 @@ inspiring others
 
 arduino
 
+Raspberry Pi
+
 '机器人','计算机视觉','机器视觉','三维重建','slam','摄像头','点云','智能硬件',
 '服务机器人',
 'k210',
